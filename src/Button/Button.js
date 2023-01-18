@@ -44,13 +44,13 @@ const Button = forwardRef((props, ref) => {
         buttonStyles(
           bgColor,
           color,
-          className,
           width,
           height,
           borderRadius,
           bgColorHover,
           colorHover
-        )
+        ),
+        className
       )}
     />
   );
