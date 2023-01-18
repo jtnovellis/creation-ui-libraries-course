@@ -15,6 +15,9 @@
     "library-ui",
     "components-react"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "jtnovellis",
   "license": "ISC",
   "dependencies": {
